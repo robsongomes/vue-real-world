@@ -3,6 +3,7 @@ import App from './App.vue'
 import router from './router'
 import upperFirst from 'lodash/upperFirst'
 import camelCase from 'lodash/camelCase'
+import store from './store'
 
 Vue.config.productionTip = false
 
@@ -24,5 +25,6 @@ requireComponent.keys().forEach(fileName => {
 
 new Vue({
   router,
+  store,
   render: h => h(App)
 }).$mount('#app')

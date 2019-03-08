@@ -1,48 +1,93 @@
 {
-    "events": [{
-            "id": 5928101,
-            "user": {
-                "id": "abc123",
-                "name": "Adam"
-            },
-            "category": "animal welfare",
-            "organizer": "Adam",
-            "title": "Cat Cabaret",
-            "description": "Yay felines!",
-            "location": "Meow Town",
-            "date": "2019-01-03T21:54:00.000Z",
-            "time": "2:00",
-            "attendees": []
-        },
-        {
-            "id": 8419988,
-            "user": {
-                "id": "abc123",
-                "name": "Adam"
-            },
-            "category": "animal welfare",
-            "organizer": "Adam",
-            "title": "Kitty Cluster",
-            "description": "Yay cats!",
-            "location": "Catlandia",
-            "date": "2019-01-31T22:09:00.000Z",
-            "time": "7:00",
-            "attendees": []
-        },
-        {
-            "id": 4582797,
-            "user": {
-                "id": "abc123",
-                "name": "Adam"
-            },
-            "category": "animal welfare",
-            "organizer": "Adam",
-            "title": "Puppy Parade",
-            "description": "Yay pups!",
-            "location": "Puptown ",
-            "date": "2019-02-02T23:27:00.000Z",
-            "time": "1:00",
-            "attendees": []
-        }
-    ]
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "category": "nature",
+      "title": "Encontro de dogs",
+      "description": "encontro de cães",
+      "location": "natal shopping",
+      "date": "2019-03-16T23:56:00.000Z",
+      "time": "12:00",
+      "attendees": [],
+      "id": 8419989
+    },
+    {
+      "id": 2277204,
+      "category": "education",
+      "title": "devops",
+      "description": "devops natal",
+      "location": "ifrn",
+      "date": "2019-03-10T00:00:00.000Z",
+      "time": "8:00",
+      "attendees": []
+    },
+    {
+      "id": 3164464,
+      "category": "housing",
+      "title": "housing",
+      "description": "housing",
+      "location": "place",
+      "date": "2019-03-03T00:06:00.000Z",
+      "time": "15:00",
+      "attendees": []
+    },
+    {
+      "id": 1758121,
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "asdfa",
+      "description": "asdf",
+      "location": "asdfasdf",
+      "date": "2019-03-10T00:09:00.000Z",
+      "time": "15:00",
+      "attendees": []
+    }
+  ]
 }
